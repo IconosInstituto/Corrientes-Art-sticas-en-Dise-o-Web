@@ -24,7 +24,6 @@
 
 ![](fauvismo/a.jpg)
 ![](fauvismo/b.jpg)
-![](fauvismo/c.jpg)
 ![](fauvismo/d.jpg)
 ![](fauvismo/e.jpg)
 ![](fauvismo/f.jpg)
