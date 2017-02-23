@@ -2,7 +2,13 @@
 
 
 
-[TOC]
+- [Cubismo](#cubismo)
+- [Dadaismo](#dadaismo)
+- [Fauvismo](#fauvismo)
+- [futurismo](#futurismo)
+- [surrealismo](#surrealismo)
+
+
 
 ## Cubismo
 
@@ -36,6 +42,15 @@
 ![](futurismo/f.jpg)
 ![](futurismo/g.jpg)
 
+
+## Dadaismo
+
+![](dadaismo/a.jpg)
+![](dadaismo/b.jpg)
+![](dadaismo/c.jpg)
+![](dadaismo/d.jpg)
+![](dadaismo/e.jpg)
+
 ## Surrealismo
 
 ![](surrealismo/a.jpg)
@@ -47,11 +62,3 @@
 ![](surrealismo/g.jpg)
 ![](surrealismo/h.jpg)
 
-
-## Dadaismo
-
-![](dadaismo/a.jpg)
-![](dadaismo/b.jpg)
-![](dadaismo/c.jpg)
-![](dadaismo/d.jpg)
-![](dadaismo/e.jpg)
