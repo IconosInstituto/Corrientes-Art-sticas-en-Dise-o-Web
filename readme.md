@@ -5,8 +5,8 @@
 - [Cubismo](#cubismo)
 - [Dadaismo](#dadaismo)
 - [Fauvismo](#fauvismo)
-- [futurismo](#futurismo)
-- [surrealismo](#surrealismo)
+- [Futurismo](#futurismo)
+- [Surrealismo](#surrealismo)
 
 
 
